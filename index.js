@@ -1,3 +1,5 @@
+//indexfile
+
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 bot.config = require("./handler/config.json");
